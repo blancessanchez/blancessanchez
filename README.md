@@ -3,7 +3,7 @@
 
 ## ⚡ Technologies
 
-![PHP]((https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
