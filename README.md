@@ -1,7 +1,7 @@
 <h2> Hi, I'm Blances 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 ![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042)](https://stackoverflow.com/users/6001290/blance)
+[![Blances Sanchez StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6001290)](https://stackoverflow.com/users/6001290/blance)
 ## ⚡ Technologies
 
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
