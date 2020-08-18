@@ -1,4 +1,5 @@
 <h2> Hi, I'm Blances 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
 ![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
 
 ## ⚡ Technologies
